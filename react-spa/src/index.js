@@ -14,7 +14,7 @@ import Router from 'react-router-dom';
 
 
 const store = createStore(
-  
+  reducers
 );
 
 // テーマカスタマイズ
